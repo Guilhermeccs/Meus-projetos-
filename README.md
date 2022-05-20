@@ -1,6 +1,6 @@
 # Meus projetos 
- Destinado a cadeira de Desenvolvimento  Web Back-end
+ Repositório Pessoal/Profissional.
+Destinados a projetos desenvolvidos e/ou em desenvolvimento durante meu curso  de Sistemas de informação. 
 
- Repositório criado com o aprendiazado dos cursos de Git e Github
 
-Essa linha eu adicionei diretamente no site 
+ 
